@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091880607455",
+    "project_id": "zartectest",
+    "storage_bucket": "zartectest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091880607455:android:25b854151aa705be5f536a",
+        "android_client_info": {
+          "package_name": "com.example.zartectaskflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091880607455-cu8hi5c3dhs8pnl9akum1k3pkl3jpvc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartectaskflutter",
+            "certificate_hash": "d7ac1daf4fe6ae2e526b522ce1071c53fa1552c2"
+          }
+        },
+        {
+          "client_id": "1091880607455-vnspc7ojuhmngeqo5iajkfa4d6fhlpib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jO5WJ_Nlho7Unz_BIUo2V7HLCS4eurA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091880607455-vnspc7ojuhmngeqo5iajkfa4d6fhlpib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
